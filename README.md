@@ -23,7 +23,7 @@ Awesome git games that can be a fun way to learn git
 ### Solution to Git-Game-v2
 | Level | Solution |
 |:-----:|:--------:|
-| 1 | git ls-files | xargs wc -l <br>git checkout 6861 |
+| 1 | git ls-files \| xargs wc -l <br>git checkout 6861 |
 | 2 | git log <br>git show 16a28 <br>git checkout snowden |
 | 3 | git shortlog <br>git checkout anon |
 | 4 | git describe <br>git checkout return <br>git checkout preety |
